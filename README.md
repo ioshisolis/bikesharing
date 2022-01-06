@@ -10,6 +10,10 @@ One of the main source of inspiration to start a business comes when we go visit
 
 
 ## Results: 
+
+[link to dashboard](https://public.tableau.com/views/Module14Challenge_16414352971120/Story1?:language=en-US&:display_count=n&:origin=viz_share_link "link to dashboard")
+
+
 ![Captura de Pantalla 2022-01-05 a la(s) 10 09 42 p  m](https://user-images.githubusercontent.com/37987602/148334038-775c6823-05f0-4705-80e4-5a0f92ef20bd.png)
 
 ![Captura de Pantalla 2022-01-05 a la(s) 10 09 57 p  m](https://user-images.githubusercontent.com/37987602/148334045-44906a97-1750-4f5d-a0da-937a40bfd7cf.png)
@@ -50,3 +54,6 @@ Finally we can compare the use by gender and by type of user.
 The results tell us that men are more likely to use our services if we decide to open for business, we should consider doing some market reaserach to ask both man and women if they would be willing to use our services in Des Moines. Also is important to consider that New York tends to be a city that has more activity during the night and their service is 24/7, may be we could try to only do 20 hours of service to have time for maintance or re-stocking. 
 
 Other data that might be interesing to have is the stations and near by locations, that way we could figure out where to place our stations. Also it would be great to compare Start and End stations to undesrtand the distances that people usually travel, or to what places they need to go, work, school, or just do it for fun; that way our marketing could be target that specific necesity. 
+
+
+![Captura de Pantalla 2022-01-05 a la(s) 11 11 00 p  m](https://user-images.githubusercontent.com/37987602/148337097-1472c5d0-9945-477a-a492-a59916595ec9.png)
